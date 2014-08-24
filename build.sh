@@ -1,1 +1,1 @@
-docker build -t granthbr/karaf:3.0.0 .
+docker build -t granthbr/karaf:3.0.0.b .
